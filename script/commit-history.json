@@ -1,15 +1,34 @@
 [
   {
-    "sha": "HEAD",
+    "sha": "c4b1dc2c980a9b293b6d25c0007820095c751e03",
     "author": "235sebastianBeller",
     "commit": {
       "date": "2025-09-03T04:46:14.000Z",
       "message": "first commit",
-      "url": "/commit/HEAD"
+      "url": "/commit/c4b1dc2c980a9b293b6d25c0007820095c751e03"
     },
     "stats": {
       "total": 23,
       "additions": 23,
+      "deletions": 0,
+      "date": "2025-09-03"
+    },
+    "coverage": 100,
+    "test_count": 2,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "235sebastianBeller",
+    "commit": {
+      "date": "2025-09-03T04:46:42.000Z",
+      "message": "first commit",
+      "url": "https://github.com/235sebastianBeller/pruebas-extension/commit/HEAD"
+    },
+    "stats": {
+      "total": 29883,
+      "additions": 29883,
       "deletions": 0,
       "date": "2025-09-03"
     },
